@@ -1,17 +1,15 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/mova-logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/mova-logo-light.png">
-  <img alt="Mova POS" src="assets/mova-logo-light.png" width="360">
-</picture>
+<img src="assets/mova-systems-logo.jpg" alt="Mova Systems" width="360">
+
+<br>
+
+<img src="assets/mova-pos-icon.jpg" width="72" alt="Mova POS" style="border-radius:16px">
 
 ### تحميل نظام Mova POS الرسمي
 
-<img src="assets/mova-icon.png" width="72" alt="Mova Systems">
-
-[![Latest Release](https://img.shields.io/github/v/release/MovaSystems/mova-pos-releases?label=%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1&color=orange)](https://github.com/MovaSystems/mova-pos-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/MovaSystems/mova-pos-releases/total?label=%D8%B9%D8%AF%D8%AF%20%D8%A7%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84%D8%A7%D8%AA&color=blue)](https://github.com/MovaSystems/mova-pos-releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/MovaSystems/mova-pos-releases?label=latest%20release&color=orange)](https://github.com/MovaSystems/mova-pos-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MovaSystems/mova-pos-releases/total?label=downloads&color=blue)](https://github.com/MovaSystems/mova-pos-releases/releases)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-0078D6?logo=windows&logoColor=white)](#-متطلبات-التشغيل)
 
 </div>
